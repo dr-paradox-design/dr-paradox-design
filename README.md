@@ -5,11 +5,13 @@
 
 I'm an Electrical Engineering student interested in building systems that connect **hardware, software, and intelligent control**.
 
+portfolio: https://my-portfolio-website-dr-paradox-designs-projects.vercel.app/
+
 ### 🔧 Areas I'm Working On
 
-* 🧠 **Digital Design & VLSI** — Verilog, RTL Design, SystemVerilog
+* 🧠 **VLSI** — Analog design, Memory design , RTL to GDS Flow
 * 🤖 **Robotics & Autonomous Systems** — ROS 2, UAVs, AUVs
-* ⚡ **Embedded Systems** — Microcontrollers, sensors, communication protocols
+* ⚡ **Embedded Systems** — Microcontrollers, sensors, communication protocols,Risc V
 * 🚁 **Drone Technology** — Flight controllers, navigation, control systems
 * 💻 **Programming** — C/C++, Python, Bash
 * 🐧 **Linux & Developer Tools** — Ubuntu, Git, GitHub
