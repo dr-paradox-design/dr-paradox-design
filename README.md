@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @dr-paradox-design
-- 👀 I’m interested in robotics, embedded system...
-- 🌱 I’m currently learning verilog, ROS2,electrical engineering ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Swastik Aditya Ranjan 👋
 
-<!---
-dr-paradox-design/dr-paradox-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Electrical Engineering | NIT Rourkela**
+🤖 Robotics • Embedded Systems • VLSI • Digital Design
+
+I'm an Electrical Engineering student interested in building systems that connect **hardware, software, and intelligent control**.
+
+### 🔧 Areas I'm Working On
+
+* 🧠 **Digital Design & VLSI** — Verilog, RTL Design, SystemVerilog
+* 🤖 **Robotics & Autonomous Systems** — ROS 2, UAVs, AUVs
+* ⚡ **Embedded Systems** — Microcontrollers, sensors, communication protocols
+* 🚁 **Drone Technology** — Flight controllers, navigation, control systems
+* 💻 **Programming** — C/C++, Python, Bash
+* 🐧 **Linux & Developer Tools** — Ubuntu, Git, GitHub
+
+### 🚀 Current Projects
+
+* 🤿 **Autonomous Underwater Vehicle (AUV)** — Team Tiburon
+* 🚁 **Drone & Autonomous Navigation** — ROS 2 / simulation / control
+* 🏭 **VLSI & Digital Design** — RTL, Verilog and semiconductor design
+* 🔬 Exploring **semiconductor design, embedded systems and robotics**
+
+### 🛠️ Tech Stack
+
+`C/C++` `Python` `Verilog` `SystemVerilog` `ROS 2` `Linux`
+`Git` `GitHub` `Arduino` `ESP32` `Raspberry Pi` `STM32`
+`Gazebo` `MATLAB` `Cadence` `Synopsys`
+
+### 🌱 Currently Learning
+
+**VLSI Design • ASIC Design • SystemVerilog/UVM • Embedded Systems • Robotics**
+
+### 🤝 Let's Connect
+
+I'm interested in collaborating on projects involving:
+
+**Robotics | Embedded Systems | VLSI | Autonomous Systems | Open Source**
+
+---
+
+⭐ *Building at the intersection of electronics, computation and robotics.*
